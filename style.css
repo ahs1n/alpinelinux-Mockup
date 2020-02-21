@@ -1,0 +1,130 @@
+body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    color: #526066;
+    background-color: lightblue;
+    background-image: url("https://i.pinimg.com/originals/f8/1d/b1/f81db1d74e0b1ed5b0f19ed409910a5a.jpg");
+}
+.links{
+    text-decoration:none;
+    color: #777;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -60px;
+    margin-bottom: 30px;
+    
+}
+.links-sp{
+    text-decoration: none;
+    padding-right: 35px;
+}
+.pages{
+    text-decoration: none;
+    color: #777;
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 2px;
+    margin-left: 240px;
+    margin-bottom: 5px;
+
+}
+h1{
+    font-family: sans-serif;
+    font-size: 48px;
+    color: #ffffff;
+    font-weight: 500;
+}
+h3{
+    font-family: sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 500;
+    margin-top: -10px;
+}
+.back{
+    color: white;
+}
+.alpine-class{
+    text-decoration: none;
+}
+.text-color{
+    color:#777;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+.banner-content{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    /* border: 1px solid black; */
+}
+.logo-img{
+    width: 14%;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    font-family: sans-serif;
+    border: 1px solid black;
+    width: 100%;
+    background-color: white;
+    }
+h3{
+    font-family: sans-serif;
+    font-size: 16px;
+}
+    .home-list{
+        width: 80%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        background-color: white;
+        margin-top: 22px;
+    }
+
+    section{
+        display: flex;
+        justify-content: center;
+        background-color: white;
+    }
+    button{
+        margin-bottom: 50px;
+        font-family: inherit;
+        font-size: 100%;
+        padding: .5em 1em;
+        /* color: #444; */
+        color: rgba(0,0,0,.8);
+        /* border: 1px solid #999; */
+        border: 0 rgba(0,0,0,0);
+        background-color: #E6E6E6;
+        text-decoration: none;
+        border-radius: 2px;
+    }
+    .footer
+    {
+        display: flex;
+        background: #111;
+        color: #888;
+        justify-content: center;
+        bottom: 0;
+        width: 100%;
+        /* padding-top: 0.8em; */
+        /* padding-bottom: 0.8em; */
+        font-size: 13px;
+        font-family: sans-serif;
+    }
+    .pp-color{
+        color: white;
+        text-decoration: none;
+    }
+    .hl-color{
+        color: rgb(61, 146, 201);
+        text-decoration: none;
+    }
